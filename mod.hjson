@@ -1,0 +1,7 @@
+name: cobble-mod
+displayName: Cobblestone Mod
+author: Bạn
+description: "Thêm Đá Cuội và Máy Sản Xuất Đá Cuội. Lấy cảm hứng từ cobblestone generator trong Minecraft: nước + xỉ nóng chảy (slag)."
+version: 1.20.6
+minGameVersion: 146
+hidden: false
